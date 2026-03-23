@@ -1,8 +1,6 @@
 # 🌐 Computer Networks 
 
 ![Subject](https://img.shields.io/badge/Subject-Computer%20Networks-blue)
-![Type](https://img.shields.io/badge/Type-Practicals-green)
-![Language](https://img.shields.io/badge/Format-Markdown-lightgrey)
 
 ---
 
